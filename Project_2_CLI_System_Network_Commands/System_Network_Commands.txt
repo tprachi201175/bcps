@@ -1,0 +1,16 @@
+SYSTEM CONFIGURATION AND NETWORKING COMMANDS
+
+hostname – displays the computer name
+systeminfo – displays operating-system and hardware information
+date / time – displays or changes system date and time
+ipconfig – displays IP configuration
+ipconfig /all – displays detailed network adapter information
+ping example.com – tests connectivity to a host
+tracert example.com – displays the route to a destination
+nslookup example.com – queries DNS information
+netstat – displays active network connections and listening ports
+
+Linux equivalents: hostname, uname -a, date, ip addr, ping,
+traceroute, nslookup/dig and ss.
+
+Run each command on your own computer and attach screenshots of output.
